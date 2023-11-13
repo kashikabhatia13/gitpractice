@@ -33,5 +33,7 @@ class UserManager
 
 main()
 {
-    
+    UserManager userM;
+    int op;
+    cout<< "\n\n\t\t1. Register User";
 }
